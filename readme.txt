@@ -1,7 +1,7 @@
 === Email Chat Contact Button Sidebar  ===
 Contributors: ContactMeButton.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8795924
-Tags: widget, social, im, instant messaging, contact, contact information, contact, share, plugin, posts, profile, email, button, communication, chat
+Tags: widget, social, im, instant messaging, contact, contact information, contact, share, plugin, sidebar, profile, email, button, communication, chat
 Requires at least: 2.0
 Tested up to: 2.8.4
 Stable tag: 1.0.0
