@@ -3,7 +3,7 @@
 Plugin Name: Contact Button Sidebar
 Plugin URI: http://www.contactmebutton.com
 Description: Contact Button Sidebar allows all your readers and visitors the ability to communicate with you through Instant Messaging, Chat, Email, and your Contact Information.  You can share all your information from only one location on SocialShake.com.  With this widget their is no need to update previous blog posts and everywhere else when your information changes and to communicate with everyone.
-Version: 1.0.2
+Version: 1.0.3
 Author: ContactMeButton.com
 Author URI: http://www.contactmebutton.com
 */
@@ -98,9 +98,18 @@ function cmb_sidebar_widget_page_options(){
     <h2>Contact Button Settings</h2>
 
 <p><i>
-<strong>Note:</strong> If you haven't signed up for your <a href="http://www.contactmebutton.com/signup/signupButton.jsp" target="blank">free ContactMeButton.com account</a> you will need to signup which only takes a minute. ContactMeButton.com is where you enter your email address for the email widget to send an email to.  You can also list your IM username so the widget can send you an instant message. Also <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com is where you enter your contact information.</a> If you need to update your info in the future, simply log into your ContactMeButton.com account and update it.  Finally visit <a href="http://www.contactmebutton.com"target="blank">ContactMeButton.com</a> to get more widgets for your email signature and website.
-</i></p>
+<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options, click the link below: <br/>
 
+<br/>
+<ol>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/trial/signupButtonTrial.jsp" target="blank">Free 30 Day Trial</a> - Free 30 day trial for professional or basic</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Chat, No Ads from $10/month</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Basic</a> - Includes 120 Email, 60 Chat, No Ads from $5/month</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Limited</a> - Ads on Email and Chat Widget and includes 60 Email, 40 Chat (Free Version)</li>
+</ol>
+
+</i></p>
+<h2>Setup</h2>
 <strong>To Complete the setup of your contact button please:</strong>
 <ol>
   <li>Replace "YOUR-CONTACTMEBUTTON-USERNAME-HERE" with your username from contactmebutton.com</li>
@@ -122,7 +131,7 @@ function cmb_sidebar_widget_page_options(){
             <td><input type="text" size="40" name="Sidebar_Contact_Me_Button_DisplayName" value="<?php echo get_option('Sidebar_Contact_Me_Button_DisplayName'); ?>" /></td>
         </tr>
 	<tr valign="top">
-            <th scope="row"><?php _e("<strong>Overlay Blog:</strong>", 'cmb_trans_domain' ); ?></th>
+            <th scope="row"><?php _e("<strong>Open on mouse over:</strong>", 'cmb_trans_domain' ); ?></th>
             <td><input type="checkbox" name="Sidebar_Contact_Me_Button_overlay" value="true" <?php echo (get_option('Sidebar_Contact_Me_Button_overlay') == 'true' ? 'checked' : ''); ?>/></td>
         </tr>
         <tr valign="top">
@@ -181,8 +190,19 @@ function cmb_sidebar_plugin_options()
     <h2>Contact Button Settings</h2>
 
 <p><i>
-<strong>Note:</strong> If you haven't signed up for your <a href="http://www.contactmebutton.com/signup/signupButton.jsp" target="blank">free ContactMeButton.com account</a> you will need to signup which only takes a minute. ContactMeButton.com is where you enter your email address for the email widget to send an email to.  You can also list your IM username so the widget can send you an instant message. Also <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com is where you enter your contact information.</a> If you need to update your info in the future, simply log into your ContactMeButton.com account and update it.  Finally visit <a href="http://www.contactmebutton.com"target="blank">ContactMeButton.com</a> to get more widgets for your email signature and website.
+<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options, click the link below: <br/>
+
+<br/>
+<ol>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/trial/signupButtonTrial.jsp" target="blank">Free 30 Day Trial</a> - Free 30 day trial for professional or basic</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Chat, No Ads from $10/month</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Basic</a> - Includes 120 Email, 60 Chat, No Ads from $5/month</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Limited</a> - Ads on Email and Chat Widget and includes 60 Email, 40 Chat (Free Version)</li>
+</ol>
+
 </i></p>
+
+<h2>Setup</h2>
 
 <strong>To Complete the setup of your contact button please:</strong>
 <ol>
@@ -205,7 +225,7 @@ function cmb_sidebar_plugin_options()
             <td><input type="text" size="40" name="Sidebar_Contact_Me_Button_DisplayName" value="<?php echo get_option('Sidebar_Contact_Me_Button_DisplayName'); ?>" /></td>
         </tr>
 	<tr valign="top">
-            <th scope="row"><?php _e("<strong>Overlay Blog:</strong>", 'cmb_trans_domain' ); ?></th>
+            <th scope="row"><?php _e("<strong>Open on mouse over:</strong>", 'cmb_trans_domain' ); ?></th>
             <td><input type="checkbox" name="Sidebar_Contact_Me_Button_overlay" value="true" <?php echo (get_option('Sidebar_Contact_Me_Button_overlay') == 'true' ? 'checked' : ''); ?>/></td>
         </tr>
         <tr valign="top">
