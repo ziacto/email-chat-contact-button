@@ -3,7 +3,7 @@
 Plugin Name: Contact Button Sidebar
 Plugin URI: http://www.contactmebutton.com
 Description: Contact Button Sidebar allows all your readers and visitors the ability to communicate with you through Instant Messaging, Chat, Email, and your Contact Information.  You can share all your information from only one location on SocialShake.com.  With this widget their is no need to update previous blog posts and everywhere else when your information changes and to communicate with everyone.
-Version: 1.0.3
+Version: 1.0.4
 Author: ContactMeButton.com
 Author URI: http://www.contactmebutton.com
 */
@@ -105,7 +105,7 @@ function cmb_sidebar_widget_page_options(){
 	<li><a href="https://secure.contactmebutton.com:8443/signup/trial/signupButtonTrial.jsp" target="blank">Free 30 Day Trial</a> - Free 30 day trial for professional or basic</li>
 	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Chat, No Ads from $10/month</li>
 	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Basic</a> - Includes 120 Email, 60 Chat, No Ads from $5/month</li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Limited</a> - Ads on Email and Chat Widget and includes 60 Email, 40 Chat (Free Version)</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Free with ads</a> - Ads on Email and Chat Widget and includes 60 Email, 40 Chat (Free Version)</li>
 </ol>
 
 </i></p>
@@ -197,7 +197,7 @@ function cmb_sidebar_plugin_options()
 	<li><a href="https://secure.contactmebutton.com:8443/signup/trial/signupButtonTrial.jsp" target="blank">Free 30 Day Trial</a> - Free 30 day trial for professional or basic</li>
 	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Chat, No Ads from $10/month</li>
 	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Basic</a> - Includes 120 Email, 60 Chat, No Ads from $5/month</li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Limited</a> - Ads on Email and Chat Widget and includes 60 Email, 40 Chat (Free Version)</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Free with ads</a> - Ads on Email and Chat Widget and includes 60 Email, 40 Chat (Free Version)</li>
 </ol>
 
 </i></p>
