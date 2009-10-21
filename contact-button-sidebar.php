@@ -3,7 +3,7 @@
 Plugin Name: Contact Button Sidebar
 Plugin URI: http://www.contactmebutton.com
 Description: Contact Button Sidebar allows all your readers and visitors the ability to communicate with you through Instant Messaging, Chat, Email, and your Contact Information.  You can share all your information from only one location on SocialShake.com.  With this widget their is no need to update previous blog posts and everywhere else when your information changes and to communicate with everyone.
-Version: 1.0.4
+Version: 1.0.5
 Author: ContactMeButton.com
 Author URI: http://www.contactmebutton.com
 */
@@ -62,9 +62,9 @@ class contact_button_sidebar{
            if( get_option('Sidebar_Contact_Me_Button_buttonType') == 'me'){
 	
 	
-		$reply = "<a href=\"http://www.contactmebutton.com/contact-me/contact-widget.action?ss_username=$cmb_username&displayName=$cmb_displayName&addRef=t\" id=\"contactmeimage\" \"><img border=\"0\" src=\"http://static.contactmebutton.com/img/contactmebutton.png\" alt=\"contact me\" title=\"$cmb_displayName\" /></a><script type=\"text/javascript\" src=\"http://www.contactmebutton.com/scripts/initWidget.js\"></script>";
+		$reply = "<a href=\"http://www.contactmebutton.com/contact-me/contact-widget.action?ss_username=$cmb_username&displayName=$cmb_displayName&addRef=t\" id=\"contactmeimage\" \"><img border=\"0\" src=\"http://static.contactmebutton.com/img/contactmebutton.png\" alt=\"contact me\" title=\"$cmb_displayName\" /></a><script type=\"text/javascript\" src=\"http://www.contactmebutton.com/scripts/initWidget.js\"></script><script type=\"text/javascript\" src=\"http://www.contactmebutton.com/js/jq/$cmb_username/$cmb_displayName.js\"></script>";
 	    }else{
-		$reply = "<a href=\"http://www.contactmebutton.com/contact-me/contact-widget.action?ss_username=$cmb_username&displayName=$cmb_displayName&addRef=t\" id=\"contactmeimage\" \"><img border=\"0\" src=\"http://static.contactmebutton.com/img/contactusbutton.png\" alt=\"contact me\" title=\"$cmb_displayName\" /></a><script type=\"text/javascript\" src=\"http://www.contactmebutton.com/scripts/initWidget.js\"></script>";
+		$reply = "<a href=\"http://www.contactmebutton.com/contact-me/contact-widget.action?ss_username=$cmb_username&displayName=$cmb_displayName&addRef=t\" id=\"contactmeimage\" \"><img border=\"0\" src=\"http://static.contactmebutton.com/img/contactusbutton.png\" alt=\"contact me\" title=\"$cmb_displayName\" /></a><script type=\"text/javascript\" src=\"http://www.contactmebutton.com/scripts/initWidget.js\"></script><script type=\"text/javascript\" src=\"http://www.contactmebutton.com/js/jq/$cmb_username/$cmb_displayName.js\"></script>";
 	    }
 
 
