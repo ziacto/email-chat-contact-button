@@ -3,7 +3,7 @@
 Plugin Name: Contact Button Sidebar
 Plugin URI: http://www.contactmebutton.com
 Description: Contact Button Sidebar allows all your readers and visitors the ability to communicate with you through Instant Messaging, Chat, Email, and your Contact Information.  You can share all your information from only one location on SocialShake.com.  With this widget their is no need to update previous blog posts and everywhere else when your information changes and to communicate with everyone.
-Version: 1.0.7
+Version: 1.0.8
 Author: ContactMeButton.com
 Author URI: http://www.contactmebutton.com
 */
@@ -98,7 +98,7 @@ function cmb_sidebar_widget_page_options(){
     <h2>Contact Button Settings</h2>
 
 <p><i>
-<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options, click the link below: <br/>
+<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options including FREE, click the link below: <br/>
 
 <br/>
 <ol>
@@ -190,7 +190,7 @@ function cmb_sidebar_plugin_options()
     <h2>Contact Button Settings</h2>
 
 <p><i>
-<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options, click the link below: <br/>
+<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options including FREE, click the link below: <br/>
 
 <br/>
 <ol>
