@@ -4,13 +4,15 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: widget, social, im, instant messaging, contact, contact information, contact, share, plugin, sidebar, profile, email, button, communication, chat
 Requires at least: 2.0
 Tested up to: 2.8.4
-Stable tag: 1.0.8
+Stable tag: 1.0.9
 
-Contact Button Sidebar for email, chat, and sharing your contact information. Your visitors contact you through one simple and easy to use button!
+Contact Button Sidebar for email, chat, and sharing your contact information. Your visitors contact you through one simple and easy to use button! Now with Analytics!
 
 == Description ==
 
 Add a contact button to your blog or website's sidebar. This widget allows your visitors to automatically stay in touch and communicate with you thru email, phone, address, instant message, social networking sites like facebook, linkedin, Myspace, etc. and more.  
+
+Now with analytics to measure how you are engaging with your visitors!
 
 **Try the contact button ->** <a href="http://www.contactmebutton.com" target="_blank">demo on ContactMeButton.com</a>
 
@@ -53,3 +55,5 @@ Please visit http://www.contactmebutton.com if you have any questions. Thank you
 * Initial release
 = 1.0.8 =
 * Fixed trial signup page.
+= 1.0.9
+* Added Analytics
