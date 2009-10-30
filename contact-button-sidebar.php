@@ -3,7 +3,7 @@
 Plugin Name: Contact Button Sidebar
 Plugin URI: http://www.contactmebutton.com
 Description: Contact Button Sidebar allows all your readers and visitors the ability to communicate with you through Instant Messaging, Chat, Email, and your Contact Information.  You can share all your information from only one location on SocialShake.com.  With this widget their is no need to update previous blog posts and everywhere else when your information changes and to communicate with everyone.
-Version: 1.0.10
+Version: 1.0.11
 Author: ContactMeButton.com
 Author URI: http://www.contactmebutton.com
 */
@@ -95,21 +95,8 @@ function cmb_sidebar_widget_page_options(){
     ?>
 
  <div class="wrap">
-    <h2>Contact Button Settings</h2>
-
-<p><i>
-<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options including FREE, click the link below: <br/>
-
-<br/>
-<ol>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Free with ads</a> - Includes 60 Email, 40 Chat per month (Free Version) </li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/trial/signupButtonTrial.jsp" target="blank">Free 30 Day Trial</a> - Free 30 day trial for professional or premium</li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Chat, No Ads from $10/month</li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Premium</a> - Includes 120 Email, 60 Chat, No Ads from $5/month</li>
-</ol>
-
-</i></p>
-<h2>Setup</h2>
+    
+<h2>Contact Button Setup</h2>
 <strong>To Complete the setup of your contact button please:</strong>
 <ol>
   <li>Replace "YOUR-CONTACTMEBUTTON-USERNAME-HERE" with your username from contactmebutton.com</li>
@@ -145,6 +132,20 @@ function cmb_sidebar_widget_page_options(){
 
     <input type="hidden" name="action" value="update" />
     <input type="hidden" name="page_options" value="Sidebar_Contact_Me_Button_Username, Sidebar_Contact_Me_Button_DisplayName,Sidebar_Contact_Me_Button_buttonType, Sidebar_Contact_Me_Button_overlay"/>
+
+<p><i>
+<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options including FREE, click the link below: <br/>
+
+<br/>
+<ol>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Free with ads</a> - Includes 60 Email, 40 Chat per month (Free Version) </li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/trial/signupButtonTrial.jsp" target="blank">Free 30 Day Trial</a> - Free 30 day trial for professional or premium</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Chat, No Ads from $10/month</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Premium</a> - Includes 120 Email, 60 Chat, No Ads from $5/month</li>
+</ol>
+
+</i></p>
+
 
     </div>
 
@@ -187,23 +188,7 @@ function cmb_sidebar_plugin_options()
 {
 ?>
     <div class="wrap">
-    <h2>Contact Button Settings</h2>
-
-<p><i>
-<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options including FREE, click the link below: <br/>
-
-<br/>
-<ol>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Free with ads</a> - Includes 60 Email, 40 Chat per month (Free Version) </li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/trial/signupButtonTrial.jsp" target="blank">Free 30 Day Trial</a> - Free 30 day trial for professional or premium</li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Chat, No Ads from $10/month</li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Premium</a> - Includes 120 Email, 60 Chat, No Ads from $5/month</li>
-</ol>
-
-</i></p>
-
-<h2>Setup</h2>
-
+<h2>Contact Button Setup</h2>
 <strong>To Complete the setup of your contact button please:</strong>
 <ol>
   <li>Replace "YOUR-CONTACTMEBUTTON-USERNAME-HERE" with your username from contactmebutton.com</li>
@@ -243,6 +228,19 @@ function cmb_sidebar_plugin_options()
             <input class="button-primary" type="submit" name="Submit" value="<?php _e('Save Changes', 'contact-button-sidebar' ) ?>" />
         </p>
      </form>
+
+<p><i>
+<strong>Note:</strong> You will need a <a href="http://www.contactmebutton.com" target="blank">ContactMeButton.com</a> account.  They have 3 different subscriptions options including FREE, click the link below: <br/>
+
+<br/>
+<ol>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Free with ads</a> - Includes 60 Email, 40 Chat per month (Free Version) </li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/trial/signupButtonTrial.jsp" target="blank">Free 30 Day Trial</a> - Free 30 day trial for professional or premium</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Chat, No Ads from $10/month</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Premium</a> - Includes 120 Email, 60 Chat, No Ads from $5/month</li>
+</ol>
+
+</i></p>
 
     </div>
 
