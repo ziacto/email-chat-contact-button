@@ -3,12 +3,12 @@
 Plugin Name: Contact Button Sidebar
 Plugin URI: http://www.contactmebutton.com
 Description: Contact Button Sidebar allows all your readers and visitors the ability to communicate with you through Instant Messaging, Chat, Email, and your Contact Information.
-Version: 1.0.13
+Version: 1.0.14
 Author: ContactMeButton.com
 Author URI: http://www.contactmebutton.com
 */
 
-/* no change */
+/* do no change */
 
 class contact_button_sidebar{
 
