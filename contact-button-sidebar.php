@@ -102,6 +102,7 @@ function cmb_sidebar_widget_page_options(){
   <li>Replace "YOUR-CONTACTMEBUTTON-USERNAME-HERE" with your username from contactmebutton.com</li>
   <li>Replace "YOUR-NAME-HERE" with your name to display ex. Company Name, Real Name, Nick name, etc.</li>
   <li>Click Save Changes</li>
+  <li><a href="http://www.contactmebutton.com/getting-started/contact-me-widget.jsp" target="_blank">Getting Started Guide</a></li>
 </ol>
 
          <?php wp_nonce_field('update-options'); ?>
@@ -194,6 +195,7 @@ function cmb_sidebar_plugin_options()
   <li>Replace "YOUR-CONTACTMEBUTTON-USERNAME-HERE" with your username from contactmebutton.com</li>
   <li>Replace "YOUR-NAME-HERE" with your name to display ex. Company Name, Real Name, Nick name, etc.</li>
   <li>Click Save Changes</li>
+  <li><a href="http://www.contactmebutton.com/getting-started/contact-me-widget.jsp" target="_blank">Getting Started Guide</a></li>
 </ol>
 
      <form method="post" action="options.php">
