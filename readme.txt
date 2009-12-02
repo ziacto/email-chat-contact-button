@@ -29,9 +29,9 @@ This section describes how to install the plugin and get it working.
 3. Click the Activate action link to activate the widget.
 4. Click the "Widgets" under contact button plugin.
 5. Drag and drop "contact button sidebar" onto your sidebar.
-5. Change "YOUR-CONTACTMEBUTTON-USERNAME-HERE" to your ContactMeButton.com username. Note ContactMeButton.com is where you add your email, instant message, and contact info
-6. Change "YOUR-NAME-HERE" to the name you want to display with your button i.e. your name, company, website name, nick name, etc.
-7. Click the save changes button.
+6. Change "YOUR-CONTACTMEBUTTON-USERNAME-HERE" to your ContactMeButton.com username. Note ContactMeButton.com is where you add your email, instant message, and contact info
+7. Change "YOUR-NAME-HERE" to the name you want to display with your button i.e. your name, company, website name, nick name, etc.
+8. Click the save changes button.
 
 Now the button should appear on your sidebar.  The final step is to configure your button.  You will need to log into <a href="http://www.contactmebutton.com/login.jsp">ContactMeButton.com</a> to complete this.  Once you log into your account you will see 3 tabs. 
 
