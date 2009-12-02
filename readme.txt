@@ -33,6 +33,16 @@ This section describes how to install the plugin and get it working.
 6. Change "YOUR-NAME-HERE" to the name you want to display with your button i.e. your name, company, website name, nick name, etc.
 7. Click the save changes button.
 
+Now the button should appear on your sidebar.  The final step is to configure your button.  You will need to log into <a href="http://www.contactmebutton.com/login.jsp">ContactMeButton.com</a> to complete this.  Once you log into your account you will see 3 tabs. 
+
+The first tab is email and this is where your email will be sent through the button.  To add your email click on the link "Click Here To Add Email".  You can add multiple email addresses.
+
+The 2nd tab is "instant messaging" and this is where you will enter your Instant Message username.  The only instant messaging we support are google and AOL/AIM.  After adding your instant message usernames anyone can begin chatting with you through your contact button which will be sent to the specified username at AOL or google.  If you don't have an AOL or Google account you can signup free. Google's sign up is http://www.google.com/talk/ and AOL sign up is here https://new.aol.com/productsweb/Controller.jpf?promocode=825028&ncid=txtlnkuswebr00000002
+
+The 3rd tab is "contact info" and this is where you can enter additional info like phone, address, and so forth.
+
+Also our getting started guide is located here <a href="http://www.contactmebutton.com/getting-started/contact-me-widget.jsp">http://www.contactmebutton.com/getting-started/contact-me-widget.jsp</a>
+
 Enjoy!
 
 == Frequently Asked Questions ==
