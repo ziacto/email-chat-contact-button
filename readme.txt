@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: widget, social, im, instant messaging, contact, contact information, contact, share, plugin, sidebar, profile, email, button, communication, chat, buddypress
 Requires at least: 2.0
 Tested up to: 2.8.6
-Stable tag: 1.0.20
+Stable tag: 1.0.21
 
 Contact Button Sidebar for email, chat, and sharing your contact information. Your visitors contact you through one simple and easy to use button! Now with Analytics!
 
