@@ -2,8 +2,8 @@
 /*
 Plugin Name: Contact Button Sidebar
 Plugin URI: http://www.contactmebutton.com
-Description: Contact Button Sidebar allows all your readers and visitors the ability to communicate with you through Instant Messaging, Chat, Email, and your Contact Information.
-Version: 1.0.21
+Description: Contact Button Sidebar allows all your readers and visitors the ability to communicate with you through Chat, Text Messaging, Email, and your Contact Information.
+Version: 1.0.22
 Author: ContactMeButton.com
 Author URI: http://www.contactmebutton.com
 */
@@ -139,10 +139,10 @@ function cmb_sidebar_widget_page_options(){
 
 <br/>
 <ol>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Free with ads</a> - Includes 60 Email, 40 Chat per month (Free Version) </li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/limited/signupButtonLimited.jsp" target="blank">Free with ads</a> - Includes 60 Email, 50 Text Messages, 40 Chat per month (Free Version) </li>
 	<li><a href="https://secure.contactmebutton.com:8443/signup/trial/signupButtonTrial.jsp" target="blank">Free 30 Day Trial</a> - Free 30 day trial for professional or premium</li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Chat, No Ads from $10/month</li>
-	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Premium</a> - Includes 120 Email, 60 Chat, No Ads from $5/month</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/professional/signupButtonProfessional.jsp" target="blank">Professional</a> - Unlimited Email, Unlimited Text Messages, Unlimited Chat, No Ads from $10/month</li>
+	<li><a href="https://secure.contactmebutton.com:8443/signup/basic/signupButtonBasic.jsp" target="blank">Premium</a> - Includes 120 Email, 100 Text Messages, 60 Chat, No Ads from $5/month</li>
 </ol>
 
 </i></p>

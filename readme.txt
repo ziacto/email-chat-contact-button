@@ -6,17 +6,17 @@ Requires at least: 2.0
 Tested up to: 2.8.6
 Stable tag: 1.0.21
 
-Contact Button Sidebar for email, chat, and sharing your contact information. Your visitors contact you through one simple and easy to use button! Now with Analytics!
+Contact Button Sidebar for email, chat, text messaging, and sharing your contact information. Your visitors contact you through one simple and easy to use button! Now with Analytics!
 
 == Description ==
 
-Add a contact button to your blog or website's sidebar. This widget allows your visitors to automatically stay in touch and communicate with you thru email, phone, address, instant message, social networking sites like facebook, linkedin, Myspace, etc. and more.  
+Add a contact button to your blog or website's sidebar. This widget allows your visitors to automatically stay in touch and communicate with you thru text messaging, email, phone, address, instant message, social networking sites like facebook, linkedin, Myspace, etc. and more.  
 
 Now with analytics to measure how you are engaging with your visitors!
 
 **Try the contact button ->** <a href="http://www.contactmebutton.com" target="_blank">demo on ContactMeButton.com</a>
 
-1st tab - **Email Widget** 2nd tab - **Chat Widget** 3rd tab - **Contact Info**
+1st tab - **Email Widget** 2nd tab - **Chat Widget** 3rd tab - **Text Messaging** 4th tab - **Contact Info**
 
 With this widget your readers and visitors can send you an Instant Message, email, and view your contact information. Using this widget you will only need to update your information from one location instead of updating everywhere.  This widget has privacy built in and you can control who is allowed to view your information.
 
@@ -39,7 +39,9 @@ The first tab is email and this is where your email will be sent through the but
 
 The 2nd tab is "instant messaging" and this is where you will enter your Instant Message username.  The only instant messaging we support are google and AOL/AIM.  After adding your instant message usernames anyone can begin chatting with you through your contact button which will be sent to the specified username at AOL or google.  If you don't have an AOL or Google account you can signup free. Click here for <a href="http://www.google.com/talk/" target="_blank">Google</a> and/or <a href="https://new.aol.com/productsweb/Controller.jpf?promocode=825028&ncid=txtlnkuswebr00000002" target="_blank">AOL</a>
 
-The 3rd tab is "contact info" and this is where you can enter additional info like phone, address, and so forth.
+The 3rd tab is "Text Messaging" and this is where your visitors can text message you.
+
+The 4th tab is "contact info" and this is where you can enter additional info like phone, address, and so forth.
 
 Also our getting started guide is located <a href="http://www.contactmebutton.com/getting-started/contact-me-widget.jsp" target="_blank">here</a>
 
@@ -70,3 +72,5 @@ Please visit http://www.contactmebutton.com if you have any questions. Thank you
 = 1.0.15
 * Centered contact button on sidebar
 * Fixed so the button doesn't open automatically if checked.
+= 1.0.22
+* Added Text Messaging
